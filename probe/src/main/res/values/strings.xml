@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DiPlay C11 能力探测</string>
+    <string name="intro">2024 C11 · 3.11.40\n此工具检查普通应用可用能力，不建立 CarPlay 连接。请停车后测试。</string>
+    <string name="refresh">刷新能力报告</string>
+    <string name="permissions">授权蓝牙与通知</string>
+    <string name="settings">打开无线设置</string>
+    <string name="media_start">开始方向盘测试（60 秒）</string>
+    <string name="media_stop">停止按键测试</string>
+    <string name="media_help">测试会播放轻声提示音并申请媒体焦点，可能暂停当前音乐。可返回原厂桌面测试上一首、下一首、播放暂停；音量继续交由系统控制。60 秒后自动停止。</string>
+    <string name="display_test">选择导航显示区域测试</string>
+    <string name="display_help">屏幕可见不代表具有仪表权限。仅测试你已确认属于仪表导航区域的候选显示；不确定时取消。测试为小窗口，10 秒后自动关闭。</string>
+    <string name="export">导出 JSON 报告</string>
+    <string name="copy">复制 JSON 报告</string>
+    <string name="copied">已复制脱敏报告</string>
+    <string name="save_failed">无法保存，可使用“复制 JSON 报告”</string>
+    <string name="saved">报告已保存</string>
+    <string name="unavailable">系统未提供此设置页面</string>
+    <string name="no_displays">没有可测试的公共 Presentation 显示。此结果不证明仪表完全不可接入，可能需要厂商接口。</string>
+    <string name="confirm_title">确认是仪表导航区域</string>
+    <string name="confirm_body">仅在已确认该显示属于导航区域，且小窗口不会覆盖速度或告警时继续。未知用途的显示不要测试。测试窗口会在 10 秒后或离开本页时关闭。</string>
+    <string name="test">显示测试窗口</string>
+    <string name="cancel">取消</string>
+    <string name="close_display">关闭显示测试</string>
+    <string name="display_marker">DiPlay\n导航区域测试\n10 秒自动关闭</string>
+    <string name="display_question">仪表导航区域是否看到了 DiPlay 测试窗口？</string>
+    <string name="seen">看到了</string>
+    <string name="not_seen">没看到 / 不确定</string>
+    <string name="map_hint">高德版本（可选，例如 15.10.0）</string>
+    <string name="events">测试事件（仅保留最近 200 条）</string>
+    <string name="media_channel">方向盘按键测试</string>
+    <string name="media_notification">正在播放测试音 · 最长 60 秒</string>
+    <string name="media_notification_detail">测试方向盘媒体键；点击停止可立即结束。</string>
+    <string name="loading">正在读取能力…</string>
+</resources>

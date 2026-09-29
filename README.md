@@ -29,6 +29,7 @@ The release changes were tested on the development DiLink5.1 car: live windshiel
 - [Privacy and diagnostic reports](docs/PRIVACY.md)
 - [Build from source](docs/BUILD.md)
 - [Validation](docs/VALIDATION.md)
+- [C11 capability probe (中文; development diagnostics, not CarPlay)](docs/C11_PROBE.md)
 - [Release notes](CHANGELOG.md)
 - [Credits and licenses](docs/THIRD_PARTY_NOTICES.md)
 
